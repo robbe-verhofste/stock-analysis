@@ -172,5 +172,7 @@ In 2017, all stocks but TERP saw positive growth, while in 2017 the only stocks 
 
 #### Refactored run-times
 Below are the screenshots of the time it took for each analysis to run. These run times (0.1-0.2 seconds) were at least 5 times faster the unrefactored code, which ran for approximately 1 second.
-![Time to Run 2017 VBA](https://github.com/robbe-verhofste/stock-analysis/VBA_Challenge_2017.PNG)
-![Time to Run 2017 VBA](https://github.com/robbe-verhofste/stock-analysis/VBA_Challenge_2018.PNG)
+
+![Time to Run 2017 VBA](https://github.com/robbe-verhofste/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
+
+![Time to Run 2017 VBA](https://github.com/robbe-verhofste/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
