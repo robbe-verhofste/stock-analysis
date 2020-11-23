@@ -4,7 +4,6 @@
 This project seeks to analyze stock data for 12 publicly traded companies in the renewable sector. We used data on each stock's daily volume, opening price and closing price for the year 2017 and 2018.
 ### Purpose
 The purpose was to determine the best stocks to purchase, based on the trends from 2017 and 2018.
-### The Data
 
 ## Results
 
